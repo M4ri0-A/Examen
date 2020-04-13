@@ -1,0 +1,22 @@
+﻿body{
+    background-color:black;
+    color:wheat;
+}
+
+.html {
+    background-color:rgba(54, 207, 74, 0.40);
+    font-family:Bahnschrift;
+    font-size:30px;
+}
+
+.css {
+    background-color: rgba(255, 0, 0, 0.40);
+    font-family: 'Footlight MT';
+    font-size: 30px;
+}
+
+.js {
+    background-color: rgba(252, 3, 255, 0.40);
+    font-family: 'Californian FB';
+    font-size: 30px;
+}
